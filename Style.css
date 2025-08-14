@@ -1,0 +1,6 @@
+body{font-family:system-ui,Segoe UI,Roboto,Arial;line-height:1.5;padding:1rem;max-width:900px;margin:0 auto;color:#111}
+.site-header{text-align:center;margin:1rem 0}
+.compare{width:100%;border-collapse:collapse;margin:1rem 0}
+.compare th,.compare td{border:1px solid #ddd;padding:.5rem;text-align:left}
+.buy-btn{display:inline-block;margin:.5rem .5rem 1rem 0;padding:.6rem 1rem;border-radius:6px;text-decoration:none;background:#0b63c6;color:#fff}
+footer{margin-top:3rem;font-size:.9rem;color:#555}￼Enter
